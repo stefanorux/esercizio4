@@ -1,0 +1,121 @@
+body {
+
+    background-image: url('assets/img/sfondo.png');
+    background-size: cover;
+    background-attachment: scroll;
+    background-size: 100%;
+
+
+}
+
+header {
+    background: linear-gradient(#25668e, #3a93b8);
+    box-sizing: border-box;
+    margin: 1.2em;
+    text-align: center;
+    line-height: 2em;
+    font-weight: 500;
+    padding: 2em;
+
+
+
+
+}
+
+header a {
+    text-decoration: none;
+}
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 2em;
+}
+
+nav a {
+    color: rgb(255, 255, 255);
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+
+main { margin: 1.2em;
+    background-color: rgb(255, 255, 255);
+     box-sizing: border-box;
+
+}
+
+
+#fontColor {
+
+    font-size: 1.2em;
+    color: rgb(185, 177, 177);
+}
+
+h1 {
+    font-size: 2em;
+}
+
+strong {
+    color: rgb(137, 21, 219);
+}
+
+code {
+    background-color: rgb(199, 189, 189);
+    border-radius: 3px;
+
+}
+
+
+
+thead {
+
+    color: rgb(253, 254, 255);
+    background-color:  #3970dd;
+}
+
+table {
+    font-size: 1.5em;
+    text-align: center;
+    font-style: normal;
+    font-weight: 100;
+}
+
+ main tr:nth-child(even) {
+    background-color: #f2f2f2;
+
+}
+main table{border-bottom: 2px solid #3970dd;}
+
+#frame {
+    border-radius: 40px;
+}
+
+section {
+    background-color:  rgb(230, 223, 223);
+}
+section h2 { padding-right: 1em;}
+.box {
+    background-color:  rgb(230, 223, 223);
+    ;
+}
+button{ color: white;
+    background-color: #3970dd;
+  border-radius: 5px;}
+
+footer {
+    text-align: center;
+    background: linear-gradient(#25668e, #3a93b8);
+    color: rgb(255, 255, 255);
+
+}
+
+footer a {
+    color: rgb(219, 36, 176);
+}
+
+.data { padding-top: 1em;
+    text-align: end;
+}
